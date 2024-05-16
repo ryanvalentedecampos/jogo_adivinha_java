@@ -10,6 +10,6 @@ digitado pelo usuario é igual ao valor "pensado".
 
 # proximas features
 
-geração de resposta aleatória
-poder jogar mais de uma vez
-sistema de pontuação
+geração de resposta aleatória,
+poder jogar mais de uma vez,
+sistema de pontuação,
