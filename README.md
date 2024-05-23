@@ -17,4 +17,8 @@ digitado pelo usuario é igual ao valor "pensado".
 
 geração de resposta aleatória,
 poder jogar mais de uma vez,
+<<<<<<< HEAD
 sistema de pontuação,
+=======
+sistema de pontuação,
+>>>>>>> 523d94818424014894f9ac1e74c067e67469e230
